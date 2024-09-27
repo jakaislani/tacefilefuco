@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tacefilefuco.netlify.app/sitemap.xml
